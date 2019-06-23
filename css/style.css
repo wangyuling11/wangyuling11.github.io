@@ -4,7 +4,7 @@
 }
 body {
 	font-size: 12px;
-	font-family: Verdana, Geneva, sans-serif; 
+	font-family: Verdana, Geneva, sans-serif;
 }
 a {
 	color: #000;
@@ -131,7 +131,6 @@ ul {
 	height: 204px;
 	padding-left: 10px;
 	position: relative;
-	background-repeat:no-repeat;
 }
 .banner {
 	background-image: url(../images/main01_11.gif);
@@ -183,7 +182,7 @@ ul {
 
 }
 .c_r_l1 {
-	background-image: url(../images/main01_14.gif);
+	background-image:url(../images/main01_14.gif);
 	background-repeat: no-repeat;
 	background-position: right bottom;
 }
@@ -320,22 +319,3 @@ ul {
 	background-position: center center;
 	height: 500px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
