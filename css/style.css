@@ -131,6 +131,7 @@ ul {
 	height: 204px;
 	padding-left: 10px;
 	position: relative;
+	background-repeat:no-repeat;
 }
 .banner {
 	background-image: url(../images/main01_11.gif);
