@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{margin:0px;
+padding:0px;
+}
+body{
+	font-size:12px;
+	font-family:Verdana, Geneva, sans-serif;
+	}
+a{
+	color:#000;
+	text-decoration:none;
+	}	
+ul{
+	list-style-type:none;}
+.header{
+	border-top-width:5px;
+	border-top-style:solid;
+	border-top-color:#8bc208;
+	margin:auto;
+	width:1020px;
+	height:80px;
+	}
+.logo{
+	background-image: ;
+	background-repeat:no-repeat;
+	background-position:center  center;
+	height:80px;
+	width:180px;
+	float:left;
+	}
+.nav{
+	float:left;
+	height:60px;
+	width:800px;
+	line-height:80px;
+	padding-left:20px;
+	padding-top:20px;
+	}
+.nav ul li{
+	float:left;
+	}
+.nav ul li a{
+	line-height:45px;
+	}
+	
+	
